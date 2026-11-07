@@ -1,0 +1,16 @@
+# .NET build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local app data
+config/
+logs/
